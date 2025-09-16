@@ -1,0 +1,14 @@
+#' Wiki Graph Dataset
+#'
+#' A dataset representing a weighted graph for testing Dijkstra's algorithm.
+#' This graph is based on the example from the Wikipedia article on Dijkstra's algorithm.
+#'
+#' @format A data frame with 18 rows and 3 variables:
+#' \describe{
+#'   \item{v1}{First vertex of the edge (numeric)}
+#'   \item{v2}{Second vertex of the edge (numeric)}
+#'   \item{w}{Weight of the edge (numeric)}
+#' }
+#' @source Wikipedia: https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+"wiki_graph"
+
