@@ -1,4 +1,4 @@
-
+[![R-CMD-check.yaml](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml)
 # Lab3
 
 <!-- badges: start -->
