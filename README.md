@@ -2,7 +2,7 @@
 # Lab3
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check.yaml](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ChenzhiNi315/Lab3/actions/workflows/R-CMD-check.yaml)
 [![Codecov test coverage](https://codecov.io/gh/ChenzhiNi315/Lab3/graph/badge.svg)](https://app.codecov.io/gh/ChenzhiNi315/Lab3)
 <!-- badges: end -->
 
