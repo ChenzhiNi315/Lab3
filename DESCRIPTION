@@ -5,8 +5,8 @@ Version: 0.1.0
 Authors@R: 
     c(
         person(given = "Chenzhi", family = "Ni", email = "pinkmannicz@gmail.com", role = c("aut", "cre")),
-        person(given = "Siyuan", family = "Xu", email = "ningschue@gmail.com", role = c("aut")),
-        person(given = "Mohan", family = "Zhang", email = "mohzh143@student.liu.se", role = c("aut"))
+        person(given = "Siyuan", family = "Xu", email = "ningschue@gmail.com", role = "aut"),
+        person(given = "Mohan", family = "Zhang", email = "mohzh143@student.liu.se", role = "aut")
     )
 Description: This package provides R language compile implementation for two different famous classic algorithms -
     Euclidean Algorithm about calculating the greatest common divisor and 
