@@ -19,23 +19,23 @@ euclidean <- function(a, b){
   x <- abs(a)
   y <- abs(b)
   # The parameters have a situation where zero exists
-  if (a == 0 && b == 0){
+  if (x == 0 && y == 0){
     return(0)
   }
-  if (a == 0){
-    return(b)
+  if (x == 0){
+    return(y)
   }
-  if (b == 0){
-    return(a)
+  if (y == 0){
+    return(x)
   }
   # Euclidean algorithm under normal conditions
-  while (b != 0){
-    rem <- a %% b
-    a <- b
-    b <- rem
+  while (y != 0){
+    rem <- x %% y
+    x <- y
+    y <- rem
   }
   # Get the greatest common divisor
-  return(a)
+  return(x)
 }
 
 
